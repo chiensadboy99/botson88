@@ -30,7 +30,7 @@ if not BOT_TOKEN:
     exit(1)
 
 # === CẤU HÌNH API ===
-TAIXIU_API_URL = "https://apioto9-production.up.railway.app/sunlon"
+TAIXIU_API_URL = "https://apioto9-production-b18d.up.railway.app/sunlon"
 LAST_FETCHED_SESSION_ID = None # Lưu trữ ID phiên cuối cùng đã xử lý
 
 # === CẤU HÌNH FETCH NÂNG CAO ===
